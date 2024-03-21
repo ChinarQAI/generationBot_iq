@@ -23,3 +23,17 @@ The repository contains Three models as of now.
 
 #### Please Intall all the requirements before using the requirements.txt file.
 <pip install -r requirements.txt>
+
+
+The above Model directories doesn't have the saved model files beacuse of the large size of the model files
+But every model directory has a readme.md file which has link to the file to be downloaded.
+Please go through it before running any inference.
+
+
+
+
+
+### The Bot is under development
+
+
+#### Iteratiion 1.
