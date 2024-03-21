@@ -2,7 +2,6 @@
 
 ## The file structure for the above is defined below.
 
-\-/
 
 |-> Qwen_1.5          This directory contains all the config and tokenizer files with model file itself.
 
