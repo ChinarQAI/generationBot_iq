@@ -1,0 +1,15 @@
+streamlit
+openai
+langchain
+langchain_community
+serpapi
+google-search-results
+numexpr
+whisper
+scipy
+torch
+tensorflow
+transformers
+faiss-cpu
+unstructured
+sentence-transformers
