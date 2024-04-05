@@ -35,4 +35,4 @@ Please go through it before running any inference.
 ### The Bot is under development
 
 
-#### Iteratiion 1.
+#### Iteration 1.
